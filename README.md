@@ -1,7 +1,6 @@
 # CircleAlarmTimerView
 ## 摘要
-圆形进度条  简单界面实现 没有做过多细化操作
-
+圆形进度条 类似iOS表盘 简单实现 没做细化
 ## Gif动画
 ![1](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/show/2.gif)
 
