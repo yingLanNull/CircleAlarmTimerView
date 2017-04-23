@@ -1,21 +1,21 @@
 # CircleAlarmTimerView
-## Abstract
-Circular progress bar, similar to iOS dial, simple implementation, there is no upload jcenter
+## 摘要
+圆形进度条 类似iOS表盘 简单实现 没做细化，也没有上传jcenter
 
-## Chinese Documents
-[查看中文文档](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/READEME_CN.md)
+## 英文文档
+[View English Documents](https://github.com/yingLanNull/CircleAlarmTimerView)
 
-## Gif
+## 动画
 ![1](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/show/2.gif)
 
-## Demo
-[Download Demo](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/show/app-debug.apk)
+## 下载APK体验
+[点击下载](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/show/app-debug.apk)
 
-## Usage
+## 使用方法
 
-### Step 1
+### 步骤 1
 
-#### In layout
+#### 布局
 ```
 	    <com.yinglan.circleviewlibrary.CircleAlarmTimerView
                 android:id="@+id/circletimerview"
@@ -25,7 +25,7 @@ Circular progress bar, similar to iOS dial, simple implementation, there is no u
 
 ```
 
-## LICENSE
+## 开源协议
 
     Apache License Version 2.0
 
