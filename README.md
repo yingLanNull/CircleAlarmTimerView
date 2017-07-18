@@ -3,7 +3,7 @@
 Circular progress bar, similar to iOS dial, simple implementation, there is no upload jcenter
 
 ## Chinese Documents
-[查看中文文档](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/READEME_CN.md)
+[点击查看中文文档](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/READEME_CN.md)
 
 ## Gif
 ![1](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/show/2.gif)
